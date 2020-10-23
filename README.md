@@ -1,2 +1,4 @@
 # travel-guide
-just for learning purpose
+
+This project is made for learning purpose of web development and git and gihub
+
